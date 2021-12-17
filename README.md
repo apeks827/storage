@@ -1,2 +1,0 @@
-# storage
-Learn Go
